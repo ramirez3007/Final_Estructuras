@@ -18,6 +18,9 @@ Luego con base en el archivo codificado se hizo un código que nos permitio deco
 Por ultimo se creo un metodo que recibe ambos archivos .txt para calcular la tasa de compresión del texto y asi darnos cuenta la gran importancia de este proceso.
 
 
+## Imagen que representa el proyecto
+![Estadisticas-porcentaje-compresion-archivos (1)](https://github.com/ramirez3007/Final_Estructuras/assets/137138146/277dd340-aa5c-4980-8ff6-051f06a29aa5)
+
 
 ## Instalación 
 
