@@ -1,13 +1,13 @@
-#Proyecto final - Estructuras de datos aplicadas
+# Proyecto final - Estructuras de datos aplicadas
 
 
-Contenido
-– Resumen del proyecto.
-– Gráfica que define el proceso.
-– Instalación.
-– Uso.
+### Contenido
+### – Resumen del proyecto.
+### – Gráfica que define el proceso.
+### – Instalación.
+### – Uso.
 
-##Resumen del proyecto
+## Resumen del proyecto
 
 Este proyecto se hizo con el fin de aprender como el algoritmo de codificación de Huffman nos ayuda con la optimización de la información permitiendonos crear un sistema de compresión de archivos, en este caso archivo planos (.txt).
 Primero se realizo un código que recibe como entrada un archivo de texto .txt y que como salida un archivo con el texto codificado.
@@ -17,7 +17,7 @@ Por ultimo se creo un metodo que recibe ambos archivos .txt para calcular la tas
 
 ## Gráfica que define el proceso
  
-##Instalación 
+## Instalación 
 
 Vamos a correr nuestro código Colab Google, donde te debes logear con una cuenta Gmail.
 Abrimos Google Drive y en la parte izquierda hay un pestaña “Nuevo”, luego nos iremos donde dice “Más”, seguido de ”Google Colaboratory”. 
@@ -28,7 +28,7 @@ https://github.com/ramirez3007/Final_Estructuras.git
 Damos clic en el botón buscar y nos encontrara en notebook que necesitamos. En la parte derecha nos saldrá un icono de abrir el cuaderno en una pestaña nueva.
 
 
-##Uso
+## Uso
 
 Vamos a ejecutar todos los mordiscos que tenemos en nuestro cuaderno. Al principio de la línea de código hay un botón de play. 
 
