@@ -2,10 +2,13 @@
 
 
 ### Contenido
+
 ### – Resumen del proyecto.
 ### – Gráfica que define el proceso.
 ### – Instalación.
 ### – Uso.
+
+
 
 ## Resumen del proyecto
 
@@ -15,8 +18,7 @@ Luego con base en el archivo codificado se hizo un código que nos permitio deco
 Por ultimo se creo un metodo que recibe ambos archivos .txt para calcular la tasa de compresión del texto y asi darnos cuenta la gran importancia de este proceso.
 
 
-## Gráfica que define el proceso
- 
+
 ## Instalación 
 
 Vamos a correr nuestro código Colab Google, donde te debes logear con una cuenta Gmail.
